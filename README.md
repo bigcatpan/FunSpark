@@ -1,2 +1,2 @@
 # FunSpark
-Spark RDD, Spark SQL, Spark Streaming, Spark ML, Spark GraphX
+Spark RDD, Spark SQL, Spark Streaming/Structured streaming, Spark ML, Spark GraphX
